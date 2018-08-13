@@ -1,6 +1,6 @@
 # Smart notes
 
-> App for taking and sharing notes
+> Simple Vue.js app for taking notes with firebase auth and firestore realtime database.
 
 ## Build Setup
 
