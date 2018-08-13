@@ -1,4 +1,4 @@
-# notes
+# Smart notes
 
 > App for taking and sharing notes
 
