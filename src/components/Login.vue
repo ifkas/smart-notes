@@ -46,7 +46,7 @@
         name: 'Login',
         data() {
             return {
-error = "Wrong";
+error = "Wrong",
             }
         },
         methods: {
