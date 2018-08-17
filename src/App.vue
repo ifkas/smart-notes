@@ -8,7 +8,7 @@
 
 <script>
 import firebase from 'firebase';
-import Navbar from '@/components/Navbar'
+import Navbar from '@/components/navbar'
 import Login from '@/components/Login'
 import NotesPanel from '@/components/NotesPanel'
 
