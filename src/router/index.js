@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import NotesPanel from '@/components/NotesPanel'
 import Login from '@/components/Login'
-import Navbar from '@/components/Navbar'
+import Navbar from '@/components/navbar'
 import firebase from 'firebase'
 
 Vue.use(Router)
