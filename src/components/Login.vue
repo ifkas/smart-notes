@@ -46,7 +46,7 @@
         name: 'Login',
         data() {
             return {
-
+error = "Wrong";
             }
         },
         methods: {
@@ -55,7 +55,7 @@
                 firebase.auth().signInWithPopup(provider)
                 .then((result) => {
                     this.$router.push({ name: 'NotesPanel'})
-                }).catch(err => console.log(error))
+                }).catch(err => console.log(this.error))
             },
         },
     }
