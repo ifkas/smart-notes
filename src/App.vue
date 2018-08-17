@@ -23,7 +23,7 @@ export default {
 
 <style>
 body {
-  background: #F6F8F9;
+  background: #F6F8F9 !important;
 }
 .at-menu--inline {
   border: 1px solid #ECECEC;
